@@ -1,0 +1,12 @@
+{
+    "Credentials": {
+        "AccessKeyId": "ASIA3NQQOQPCYR4F3KMV",
+        "SecretAccessKey": "zZNQ5f5SH29oJY9+SMJK8YbyusFImAnmQ6vj5/kp",
+        "SessionToken": "IQoJb3JpZ2luX2VjECIaCXVzLWVhc3QtMSJHMEUCIQClMPEMluCkTo68/Ak9N0Fmk8px6XwGHp3Vo78ZhKa/1AIgZsA6ozP3c6D76wIE5SEszfuQCQMZavji+ReBXxg4o3QqnwIIexAAGgw3ODQ5Mzk3NzkwMTMiDFCHORLOxyWmpzvSzir8AdvrsdpwjKtwXP3305QwohOwpDUAqdc/fyKysazqxoyfV7/y9pbWn9dabwCwgYreCJuR4PkLtWwJ1gtwg5ub+qlGQOaVvWQovuZllYEIlZLzRZwJelAKzG7kjIRJM/URQFZ3OHrI0vnXUD319ZJELo5MPljyOlJ3QwNE31yKBnOtN4w3ir4c0LyWuLwe10GTuTH1Gcv+WVnBG9+jd0PBp0azskjmkL0bDb+KG+Bp1n7CDnFQfR3pxD2NmFrYeZYYk3UTNo46/5oE8wdEXcg1AWRiqogHZr9z/+1NbeK3GJFor9PHgr7JS42Mbsv9WV/8NQCM9rpIpFiQk0KvfDCd6NmQBjqdAaz40rk7Umg5FMsSv1ihGTSDw8/18In93kyCzyeQ6/1FuQthkZEZrEQ8yPquSy2EweTvbCdCmk3Wc7k9U9SwMWjcBJbBrwdHtTA8iAN84Be0Bb+mJRhO8BgX5cX+RXcOfN4lXVVV0cXmK5IPhdo9ywOn27tGT1B7xnfluahfFqZFJfy9f/y76szmfnTBae2XRX+xMqQDuq93ut9LYMI=",
+        "Expiration": "2022-02-23T18:51:25+00:00"
+    },
+    "AssumedRoleUser": {
+        "AssumedRoleId": "AROA3NQQOQPCUQWIDHY6T:AWSCLI-Session",
+        "Arn": "arn:aws:sts::784939779013:assumed-role/Dati-acc-access/AWSCLI-Session"
+    }
+}
